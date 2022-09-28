@@ -16,32 +16,32 @@
   "category":[
     {
       "id": "2",
-      "image": "https://raw.githubusercontent.com/luisDanielRoviraContreras/img/master/files/2.png",
-      "name": "Sports"
+      "image": "https://media.istockphoto.com/photos/juicy-hamburger-on-white-background-picture-id1206323282?k=20&m=1206323282&s=612x612&w=0&h=yatlq6BHRCCvoTzFZLSwaJc0O8Quct_tRPWtH0dj9Fc=",
+      "name": "Burger"
     },
     {
       "id": "3",
-      "image": "https://raw.githubusercontent.com/luisDanielRoviraContreras/img/master/files/3.png",
-      "name": "Canvas"
+      "image": "https://www.cakehut.in/image/cache/catalog/2021%20cake%20photos/Double%20Chocolatee-600x600w.jpg.webp",
+      "name": "Cake"
     },
     {
       "id": "4",
-      "image": "https://raw.githubusercontent.com/luisDanielRoviraContreras/img/master/files/4.png",
-      "name": "boots"
+      "image": "https://media.istockphoto.com/photos/soft-drink-being-poured-into-glass-picture-id533575209?k=20&m=533575209&s=612x612&w=0&h=IM2olxKR5DFaCrJRDl6_0R4drSa4hpUm29Qgjq-l41I=",
+      "name": "Drinks"
     },
     {
       "id": "5",
-      "image": "https://raw.githubusercontent.com/luisDanielRoviraContreras/img/master/files/5.png",
-      "name": "loofer"
+      "image": "https://static.toiimg.com/photo/msid-87930581/87930581.jpg?211826",
+      "name": "Pizza"
     },
     {
       "id": "6",
-      "image": "https://raw.githubusercontent.com/luisDanielRoviraContreras/img/master/files/6.png",
-      "name": "casual"
+      "image": "https://www.acouplecooks.com/wp-content/uploads/2021/03/Waffle-Recipe-012s.jpg",
+      "name": "Waffles"
     },  {
         "id": "7",
-        "image": "https://raw.githubusercontent.com/luisDanielRoviraContreras/img/master/files/7.png",
-        "name": "party wear"
+        "image": "https://res.cloudinary.com/swiggy/image/upload/f_auto,q_auto,fl_lossy/ae3qqfev6j7hzhxw6if3",
+        "name": "Icecream"
       }
   
   ]
