@@ -13,6 +13,28 @@
       "username": "zero_cool"
     }
   ],
+  "homeBanner" : [
+    {
+      "id": "0",
+      "image": "https://images.unsplash.com/photo-1483137140003-ae073b395549?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8Zm9vZCUyMGJhbm5lcnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=800&q=60"
+    },
+    {
+      "id": "1",
+      "image": "https://img.freepik.com/free-psd/food-menu-delicious-pizza-web-banner-template_106176-419.jpg"
+    },
+    {
+      "id": "2",
+      "image": "https://cdn.shopify.com/s/files/1/0555/2734/2229/files/BURGER-LIBRARY-SHOPIFY-BANNER_530x_crop_top@2x.jpg?v=1642150527"
+    },
+    {
+      "id": "3",
+      "image": "https://c8.alamy.com/zooms/9/b1ff5edd7adc4b0ebadaafbdb41de82c/2em9jpr.jpg"
+    },
+    {
+      "id": "4",
+      "image": "https://previews.123rf.com/images/vectorgift/vectorgift1706/vectorgift170600020/79810902-trendy-summer-sale-banner-design-with-ice-cream-.jpg"
+    }
+  ],
   "category":[
     {
       "id": "2",
