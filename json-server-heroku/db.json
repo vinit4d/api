@@ -1,19 +1,19 @@
 {
-  "posts":[
+  "posts": [
     {
-      "id" : 0,
+      "id": 0,
       "title": "First post!",
-      "content" : "My first content!"
+      "content": "My first content!"
     }
   ],
-  "comments" : [
+  "comments": [
     {
       "id": 0,
       "content": "Wow such content!",
       "username": "zero_cool"
     }
   ],
-  "homeBanner" : [
+  "homeBanner": [
     {
       "id": "0",
       "image": "https://images.unsplash.com/photo-1483137140003-ae073b395549?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8Zm9vZCUyMGJhbm5lcnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=800&q=60"
@@ -35,7 +35,7 @@
       "image": "https://previews.123rf.com/images/vectorgift/vectorgift1706/vectorgift170600020/79810902-trendy-summer-sale-banner-design-with-ice-cream-.jpg"
     }
   ],
-  "category":[
+  "category": [
     {
       "id": "2",
       "image": "https://media.istockphoto.com/photos/juicy-hamburger-on-white-background-picture-id1206323282?k=20&m=1206323282&s=612x612&w=0&h=yatlq6BHRCCvoTzFZLSwaJc0O8Quct_tRPWtH0dj9Fc=",
@@ -60,11 +60,34 @@
       "id": "6",
       "image": "https://www.acouplecooks.com/wp-content/uploads/2021/03/Waffle-Recipe-012s.jpg",
       "name": "Waffles"
-    },  {
-        "id": "7",
-        "image": "https://res.cloudinary.com/swiggy/image/upload/f_auto,q_auto,fl_lossy/ae3qqfev6j7hzhxw6if3",
-        "name": "Icecream"
-      }
-  
+    },
+    {
+      "id": "7",
+      "image": "https://res.cloudinary.com/swiggy/image/upload/f_auto,q_auto,fl_lossy/ae3qqfev6j7hzhxw6if3",
+      "name": "Icecream"
+    }
+  ],
+  "customerReviews": [
+    {
+      "name": "James Cook",
+      "extra": "Teacher",
+      "image": "customer_1.jpg",
+      "comment": "Et autem impedit ut tenetur maxime sed sunt atque ea quaerat exercitationem quo nulla maiores. Non sint labore et quod necessitatibus et voluptas quaerat vel quia mollitia.",
+      "date": "DateTime.now()"
+    },
+    {
+      "name": "Alisa Wender",
+      "extra": "User",
+      "image": "customer_2.jpg",
+      "comment": "Et autem impedit ut tenetur maxime sed sunt atque ea quaerat exercitationem quo nulla maiores. Non sint labore et quod necessitatibus et voluptas quaerat vel quia mollitia.",
+      "date": "DateTime.now()"
+    },
+    {
+      "name": "Robert Real",
+      "extra": "Vendor",
+      "image": "customer_3.jpg",
+      "comment": "Et autem impedit ut tenetur maxime sed sunt atque ea quaerat exercitationem quo nulla maiores. Non sint labore et quod necessitatibus et voluptas quaerat vel quia mollitia.",
+      "date": "DateTime.now()"
+    }
   ]
 }
